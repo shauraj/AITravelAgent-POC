@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "HotelName": "Air Japan",
+    "CheckInDate": "2025-01-19",
+    "CheckOutDate": "2025-01-20",
+    "Price": 1200,
+    "IsBooked": false
+  },
+  {
+    "Id": 2,
+    "HotelName": "Pacific Airlines",
+    "CheckInDate": "2025-01-25",
+    "CheckOutDate": "2025-01-26",
+    "Price": 1100,
+    "IsBooked": false
+  },
+  {
+    "Id": 3,
+    "HotelName": "Skyward Express",
+    "CheckInDate": "2025-01-20",
+    "CheckOutDate": "2025-01-21",
+    "Price": 1150,
+    "IsBooked": false
+  },
+  {
+    "Id": 4,
+    "HotelName": "EuroJet",
+    "CheckInDate": "2025-02-10",
+    "CheckOutDate": "2025-02-11",
+    "Price": 950,
+    "IsBooked": false
+  },
+  {
+    "Id": 5,
+    "HotelName": "Skyline Airways",
+    "CheckInDate": "2025-02-15",
+    "CheckOutDate": "2025-02-16",
+    "Price": 1050,
+    "IsBooked": false
+  },
+  {
+    "Id": 6,
+    "HotelName": "Lufthansa",
+    "CheckInDate": "2025-02-20",
+    "CheckOutDate": "2025-02-21",
+    "Price": 980,
+    "IsBooked": false
+  },
+  {
+    "Id": 7,
+    "HotelName": "Air Italia",
+    "CheckInDate": "2025-03-05",
+    "CheckOutDate": "2025-03-06",
+    "Price": 1020,
+    "IsBooked": false
+  },
+  {
+    "Id": 8,
+    "HotelName": "Swiss Air",
+    "CheckInDate": "2025-03-10",
+    "CheckOutDate": "2025-03-11",
+    "Price": 990,
+    "IsBooked": false
+  },
+  {
+    "Id": 9,
+    "HotelName": "Dragon Air",
+    "CheckInDate": "2025-03-15",
+    "CheckOutDate": "2025-03-16",
+    "Price": 1250,
+    "IsBooked": false
+  },
+  {
+    "Id": 10,
+    "HotelName": "Cathay Pacific",
+    "CheckInDate": "2025-03-18",
+    "CheckOutDate": "2025-03-19",
+    "Price": 1280,
+    "IsBooked": false
+  }
+]
