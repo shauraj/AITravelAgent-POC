@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AITravelAgent-POC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bcbfb690e6a72389ad39bee16fba7a9888604cc9")]
 [assembly: System.Reflection.AssemblyProductAttribute("AITravelAgent-POC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AITravelAgent-POC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj": {}
+    "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj": {
+    "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
+        "projectUniqueName": "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
         "projectName": "AITravelAgent-POC",
-        "projectPath": "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
+        "projectPath": "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
         "packagesPath": "C:\\Users\\saura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\obj\\",
+        "outputPath": "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+iznRWFRso=",
+  "dgSpecHash": "ItclETZBkEM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saura\\Downloads\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
+  "projectFilePath": "C:\\Users\\saura\\AITravelAgent-POC\\AITravelAgent-POC\\AITravelAgent-POC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saura\\.nuget\\packages\\azure.ai.openai\\2.2.0-beta.1\\azure.ai.openai.2.2.0-beta.1.nupkg.sha512",
     "C:\\Users\\saura\\.nuget\\packages\\azure.core\\1.44.1\\azure.core.1.44.1.nupkg.sha512",

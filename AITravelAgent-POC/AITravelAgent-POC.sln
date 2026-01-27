@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AITravelAgent-POC", "AITravelAgent-POC.csproj", "{EEA007B2-2832-7A6A-2C76-E0AFCE04A32F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEA007B2-2832-7A6A-2C76-E0AFCE04A32F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA007B2-2832-7A6A-2C76-E0AFCE04A32F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA007B2-2832-7A6A-2C76-E0AFCE04A32F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA007B2-2832-7A6A-2C76-E0AFCE04A32F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08FBA737-14D0-42C7-A4D2-877298431845}
+	EndGlobalSection
+EndGlobal
