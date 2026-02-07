@@ -95,7 +95,7 @@ dotnet run
 
 ## 👨‍💻 Author
 **Shauraj**  
-AI | .NET | Cloud | Generative AI Solutions  
+AZURE | AI | .NET | .NET CORE | Cloud | Generative AI Solutions  
 
 🔗 GitHub: https://github.com/shauraj
 
@@ -103,6 +103,7 @@ AI | .NET | Cloud | Generative AI Solutions
 
 ## 📄 License
 This project is intended for learning, experimentation, and proof‑of‑concept demonstrations.
+
 
 ---
 
